@@ -8,8 +8,6 @@ picture: minosDialogueManagerVer02.png
 excerpt: A breathrough on figuring out how to export the data properly
 ---
 
-![A screenshot of Dialogue Forge when it was sitll known as Minos Dialogue Manager in its alpha state, showing the updated json file format](../../../assets/minosDialogueManagerExportVer02.png)
-
 Hello! I've been working on the tool again and have some good news, session 1 of export testing has succeeded! The issue with it ignoring multiple variables has been fixed >:) 
 
 I'm hoping to be able to have the exports fully working by next week. I'm currently looking into how to support export data for a few of the label options like if statements. I'm hoping this won't take me too long though. Once the exports are in, adding in the remainder shouldn't be too difficult (I hope lol).
