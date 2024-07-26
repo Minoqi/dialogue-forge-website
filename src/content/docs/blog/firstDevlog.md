@@ -8,8 +8,6 @@ picture: minosDialogueManagerVer01.png
 excerpt: Alpha ver 0.1.0 official release!
 ---
 
-![A screenshot for Dialogue Forge was it was still known as Minos Dialogue Manager, showing the state of it's initial Alpah V0.1.0 release!](../../../assets/minosDialogueManagerVer01.png)
-
 It's been a few days since the release of the alpha version of  Minos Dialogue Manager. It's great to have it finally released and in that time I've taken a short break from working on it directly, but have been mulling over how the remaining features will be implemented and have finally come to a decision.  So for those interested, you can keep reading to hear how to final version will most likely function:
 
 # Save Files
