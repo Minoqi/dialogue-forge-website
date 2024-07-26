@@ -8,7 +8,7 @@ excerpt: A new feature - Swapping dialogue files!
 ---
 
 Good news, the official Ver 1 release is set to come out within a week! This comes with many changes, which I will detail in the official release post, but here's a quick rundown and what to expect:
-
+q
 1. Save system and exports got an overhaul in how the data is stored, so any previous files will  not work in V1.0!
 2. Added support for swapping between dialogues easily without the need to open a separate file
 3. Added translation support!

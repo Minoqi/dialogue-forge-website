@@ -5,6 +5,7 @@ import starlightHeadingBadges from 'starlight-heading-badges';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://dialogueforge.dev',
 	contentDir: './src/content',
 	integrations: [
 		starlight({
