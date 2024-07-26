@@ -1,0 +1,62 @@
+---
+title: Welcome to Dialogue Forge
+description: A modular dialogue tool that supports any engine/framework that can read JSON files.
+template: splash
+hero:
+  tagline: A modular dialogue tool that supports any engine/framework that can read JSON files.
+  image:
+    file: ../../assets/DialogueForgeLogoV7FINAL.png
+  actions:
+    - text: Project Examples
+      link: /guides/example/
+      icon: right-arrow
+      variant: primary
+    - text: Read the Dialogue Forge docs
+      link: /reference/00about/
+      icon: right-arrow
+---
+
+import { LinkCard, Card, CardGrid } from '@astrojs/starlight/components';
+
+
+<CardGrid>
+	<LinkCard 
+		title="Buy Dialogue Forge"
+		href='https://itch.io'
+	/>
+	<LinkCard 
+		title="Read the Docs"
+		href='/reference/00about/'
+	/>
+	<LinkCard 
+		title="Report a Bug"
+		href='https://docs.google.com/forms/d/e/1FAIpQLSe8laq7Un7H6w4B-5QXuSjhCbnlHy3JmbNbncumrtqp0y5KgQ/viewform?usp=sf_link'
+	/>
+	<LinkCard 
+		title="Request a Feature"
+		href='https://docs.google.com/forms/d/e/1FAIpQLSelX7gmfeSGZ3dRzQ8lfAaOC08n5vtc5JsIseKVz9UV-V1nBA/viewform?usp=sf_link'
+	/>
+</CardGrid>
+
+## Roadmap
+
+<CardGrid stagger>
+	<Card title="Add ability to add custom markers to autocomplete list" icon="pencil">
+		Status: Not Started
+	</Card>
+	<Card title="Add ability to add syntax highlighting to custom markers" icon="pencil">
+		Status: Not Started
+	</Card>
+	<Card title="Create Godot parser" icon="seti:godot">
+		Status: Not Started
+	</Card>
+	<Card title="Create Unity parser" icon="seti:c-sharp">
+		Status: Not Started
+	</Card>
+	<Card title="Create Unreal Engine parser" icon="seti:cpp">
+		Status: Not Started
+	</Card>
+	<Card title="Create Gamemaker parser" icon="external">
+		Status: Not Started
+	</Card>
+</CardGrid>
