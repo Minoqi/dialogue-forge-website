@@ -4,7 +4,7 @@ date: 2024-07-27
 tags:
     - Update
     - Alpha
-excerpt: A new feature - Swapping dialogue files!
+excerpt: A new feature - Swapping dialogue files! 
 ---
 
 Good news, the official Ver 1 release is set to come out within a week! This comes with many changes, which I will detail in the official release post, but here's a quick rundown and what to expect:
