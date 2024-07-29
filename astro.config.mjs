@@ -5,6 +5,9 @@ import starlightHeadingBadges from 'starlight-heading-badges';
 
 // https://astro.build/config
 export default defineConfig({
+	build:{
+		site: 'https://minoqi.github.io/',
+	  },
 	output: 'static', // Ensure this is set to 'static'
 	site: 'https://dialogueforge.dev',
 	contentDir: './src/content',
