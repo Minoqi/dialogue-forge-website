@@ -11,4 +11,6 @@ description: A reference page in my new Starlight docs site.
 
 **Bug:** Help the tools development by reporting bugs! Screenshots and gifs, as well as the save or JSON file when necessary will make the job easier.
 
+**Request:** Help the tools development by requesting features you think should be in the program!
+
 **Info:** Check the tool version and my contact information, plsu click on the logo to get taken to this website!
