@@ -10,6 +10,7 @@ export default defineConfig({
 	  },
 	output: 'static', // Ensure this is set to 'static'
 	site: 'https://minoqi.github.io/',
+	base: 'dialogue-forge-website',
 	contentDir: './src/content',
 	integrations: [
 		starlight({
