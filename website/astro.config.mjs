@@ -1,6 +1,7 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import starlightBlog from 'starlight-blog';
+import starlightImageZoom from "starlight-image-zoom";
 import starlightHeadingBadges from 'starlight-heading-badges';
 
 // https://astro.build/config
@@ -29,11 +30,15 @@ export default defineConfig({
 				},
 			],
 			plugins: [
+				starlightImageZoom(),
 				starlightBlog({
 				  title: 'Devlog',
 				}),
 				starlightHeadingBadges()
 			],
+		        components: {
+				MarkdownContent: "./src/components/MarkdownContent.astro",
+		        },
 		}),
 	],
 });
